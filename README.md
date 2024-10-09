@@ -243,12 +243,10 @@ activity_main.xml
 ```
 ## OUTPUT:
 ## Implicit
-![image](https://github.com/user-attachments/assets/2433fcfa-0d50-45f8-baa8-c8c316fcf78e)
-![image](https://github.com/user-attachments/assets/21aaa302-3926-453b-a054-8d0de21c3efe)
+![image](https://github.com/user-attachments/assets/2433fcfa-0d50-45f8-baa8-c8c316fcf78e) ![image](https://github.com/user-attachments/assets/21aaa302-3926-453b-a054-8d0de21c3efe)
 
 ## Explicit
-![image](https://github.com/user-attachments/assets/71483d8b-c68d-42d3-97f2-09720705d4d4)
-![image](https://github.com/user-attachments/assets/34d25972-8586-4157-97c7-c3ccaf82e526)
+![image](https://github.com/user-attachments/assets/71483d8b-c68d-42d3-97f2-09720705d4d4) ![image](https://github.com/user-attachments/assets/34d25972-8586-4157-97c7-c3ccaf82e526)
 
 ## OUTPUT:
 Thus a Simple Android Application to open google page using Implicit Intents in Android Studio was developed and executed successfully.
